@@ -1,16 +1,11 @@
 # hiveproject
 
-A new Flutter project.
+A Flutter App to keep track of expenses and incomes using Hive NoSQl database.
 
-## Getting Started
+## Hive
 
-This project is a starting point for a Flutter application.
+A few resources to get you started if this you wish to know about hive DB:
 
-A few resources to get you started if this is your first Flutter project:
+- [Hive docs](https://docs.hivedb.dev/#/) which offers tutorials,
+samples, guidance, and a full API reference.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
